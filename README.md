@@ -1,5 +1,5 @@
 # final-year-project
-company network design and implementation
+Company Network Design and Implementation
 
 A trading floor Support centre employs 600 staff. They have recently expanded and as a result, need to move to a new building. A building has been identified but has no network. This means that before they can make to move out, new network service needs to be designed and implemented in the new building. Existing Network comprises of the following elements: The new building is expected to have three floors with two departments in each for example:
 
